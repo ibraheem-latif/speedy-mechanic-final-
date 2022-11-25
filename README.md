@@ -3,6 +3,11 @@
 
 > Open this page at [https://ibraheemlatif.github.io/speedy-mechanic-final/](https://ibraheemlatif.github.io/speedy-mechanic-final/)
 
+## Abstract
+
+Serious games and gamification are finding expanding applications in industries such as healthcare, business, and education. A viable field of study for immersive serious games would be education, particularly educating undergraduate students concerning automotive technology. The current teaching structure is online based which does not allow students to be immersed with their material, as a return students cannot retain knowledge. Additionally, the existing structure may place students under stress, which may result in anxiety. From research of similar experiments, it was revealed that applying serious games can boost knowledge and knowledge retention. Thus, a game was developed that uses several gaming mechanisms to successfully create an engaging and enjoyable experience. Although the results do suggest area for improvement in the initial knowledge retained, yet the result for long-term knowledge retention of students are suffice.
+
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
